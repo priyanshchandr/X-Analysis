@@ -1,0 +1,4 @@
+A/B Test: Morning vs Evening Likes
+T-Statistic: -8.495600430939332
+P-Value: 2.003190596439183e-17
+Statistically significant difference in engagement between morning and evening tweets.
