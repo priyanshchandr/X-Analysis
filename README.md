@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive `README.md` file tailored for your [X-Analysis](https://github.com/priyanshchandr/X-Analysis) repository, which focuses on Twitter data analysis using a dataset sourced from Kaggle.
-
----
-
 # X-Analysis
 
 **X-Analysis** is a data analysis project that delves into Twitter data to extract meaningful insights. Utilizing a dataset sourced from Kaggle, this project encompasses data preprocessing, exploratory data analysis (EDA), and visualization to understand user engagement patterns and trends on the platform.
